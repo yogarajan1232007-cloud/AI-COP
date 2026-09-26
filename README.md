@@ -273,6 +273,7 @@ L298N Motor Driver
 DC Motors
 Active Buzzer
 ISD1820
+
 11. Project Structure
 AI-COP/
 │
@@ -306,6 +307,7 @@ AI-COP/
     ├── package-lock.json
     ├── tailwind.config.js
     └── vite.config.js
+
 12. Backend Setup
 
 Navigate to the backend:
